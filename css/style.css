@@ -1,0 +1,30 @@
+body {
+
+    /*Color scheme https://kuler.adobe.com/Neutral-Blue-color-theme-22361/*/
+    background:#FCFFF5;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+h1 {
+    font-size: 60px;
+    margin-left:auto;
+    margin-right:auto;
+    width:70%;
+    background-color:#b0e0e6;
+    text-align:center;
+}
+
+#grid {
+    float: left;
+    width: 50%;
+    padding: 0 10px;
+    margin: 5px 0;
+    text-align: center;
+}
+
+a img {
+    height: 300px;
+    width: 400px;
+}
+

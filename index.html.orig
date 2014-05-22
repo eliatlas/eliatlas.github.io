@@ -1,15 +1,28 @@
 <! DOCTYPE html>
 <html lang="en">
+<<<<<<< HEAD
+=======
+
+>>>>>>> 66c1bc910dc173344fd180f84ae2e5e65f927381
    <head>
        <title>Eli Atlas</title>
        <link rel="stylesheet" href="css/style.css" />
    </head>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 66c1bc910dc173344fd180f84ae2e5e65f927381
    <body>
         <h1>Eli Atlas</h1>
         <div id="grid">
             <div class="row">
+<<<<<<< HEAD
                 <a href="http://www.facebook.com/eli.atlas"><img src="images/face.jpg" alt="Facebook"></a>
                 <a href="http://www.eliatlas.com"><img src="images/word.jpg" alt="Blog"></a>
+=======
+                <a href="#"><img src="images/face.jpg" alt="Facebook"></a>
+                <a href="#"><img src="images/word.jpg" alt="Blog"></a>
+>>>>>>> 66c1bc910dc173344fd180f84ae2e5e65f927381
             </div>
             <div class="row">
                 <a href="#"><img src="images/linkedin.jpg" alt="LinkedIn"></a>
@@ -20,4 +33,8 @@
             </div>
         </div>
    </body>
+<<<<<<< HEAD
+=======
+
+>>>>>>> 66c1bc910dc173344fd180f84ae2e5e65f927381
 <html>

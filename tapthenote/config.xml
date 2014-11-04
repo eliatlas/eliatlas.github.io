@@ -4,5 +4,5 @@
 	<sounds local="true" path="assets/sounds/" >
 		<notes ammount="88"/>
 		<lobby_music path=""/>
-	<sounds>
+	</sounds>
 </config>

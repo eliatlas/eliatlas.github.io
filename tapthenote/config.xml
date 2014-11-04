@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<config>
+	<base_server path="https://github.com/eliatlas/tapthenote/"/>
+	<sounds local="true" path="assets/sounds/" >
+		<notes ammount="88"/>
+		<lobby_music path=""/>
+	<sounds>
+</config>
